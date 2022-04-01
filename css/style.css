@@ -24,3 +24,7 @@
 /*termos*/
 
 @import "./termos/termos.css";
+
+
+/*responsividade*/
+@import "./responsividade/responsividade.css";
